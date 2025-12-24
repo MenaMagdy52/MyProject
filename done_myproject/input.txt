@@ -1,0 +1,7 @@
+5	
+circle 62.5
+cube 73.6
+circle 42.5
+Cube 83.6
+circle 52.5
+
